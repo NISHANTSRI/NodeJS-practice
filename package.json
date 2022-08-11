@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My practice node js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeJS-nishant"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "NISHANTSRI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
